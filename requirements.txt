@@ -8,7 +8,7 @@ colorama==0.3.2
 cracklib==2.9.3
 decorator==4.0.6
 dnspython3==1.12.0
-ecdsa==0.13
+ecdsa==0.13.3
 html5lib==0.999
 ldap3==0.9.8.5.post2
 ocflib==2015.6.28.13.40
